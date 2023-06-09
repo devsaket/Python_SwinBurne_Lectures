@@ -27,9 +27,9 @@ print(f.read())
 f.seek(10)
 print(f.read())
 f.seek(25)
-f.write(" Hello Sahil This is python Class ")
+f.write(" Hello Guys This is python Class ")
 f.seek(0)
-print(f.readlines()[0].index('Sahil'))
+print(f.readlines()[0].index('Guys'))
 f.close()
 
 

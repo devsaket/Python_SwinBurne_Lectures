@@ -1,4 +1,4 @@
-# Student ID - 20925390   Name : Sahil Sharma
+##
 
 # Task 2
 
